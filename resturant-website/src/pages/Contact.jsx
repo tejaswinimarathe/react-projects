@@ -82,7 +82,7 @@ const Contact = () => {
                 <TableRow>
                   <TableCell>
                     <MailIcon sx={{ color: "skyblue", mr: 1 }} />
-                    help@myrest.com
+                    tejaswini@gmail.com
                   </TableCell>
                 </TableRow>
                 <TableRow>
