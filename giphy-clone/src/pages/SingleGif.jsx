@@ -56,7 +56,8 @@ const GifPage = () => {
                 className="h-14"
               />
               <div className="px-2">
-                <div className="font-bold">{gif?.user?.display_name}</div>
+                 <div className="font-bold">{gif?.user?.display_name}</div>
+
                 <div className="faded-text">@{gif?.user?.username}</div>
               </div>
             </div>
